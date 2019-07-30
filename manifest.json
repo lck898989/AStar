@@ -1,0 +1,26 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/Astar/AStar2.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Main.js",
+		"bin-debug/MainBackUI.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ProgressBar.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/BackAdapter.js",
+		"bin-debug/Astar/GameTest.js",
+		"bin-debug/Astar/Grid.js",
+		"bin-debug/Astar/MathUtil.js",
+		"bin-debug/Astar/NodePoint.js",
+		"bin-debug/UI/CommonButton.js",
+		"bin-debug/utils/NetWorkManager.js"
+	]
+}

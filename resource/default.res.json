@@ -1,0 +1,225 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,particle_gif,bubble_gif,title1_gif,nb_gif,t_gif,bg2_jpg,bg_login_png,bg_share_png,btn_login_png,btn_share_png,current_png,ip1_png,ip2_png,lottery_png,wish_png,wrapcircle_bg_png,wrapcircle_bg2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "particle_gif",
+			"type": "image",
+			"url": "assets/particle.gif"
+		},
+		{
+			"name": "bubble_gif",
+			"type": "image",
+			"url": "assets/bubble.gif"
+		},
+		{
+			"name": "title1_gif",
+			"type": "image",
+			"url": "assets/title1.gif"
+		},
+		{
+			"name": "nb_gif",
+			"type": "image",
+			"url": "assets/nb.gif"
+		},
+		{
+			"name": "t_gif",
+			"type": "image",
+			"url": "assets/t.gif"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/zq/bg.jpg"
+		},
+		{
+			"name": "bg_login_png",
+			"type": "image",
+			"url": "assets/zq/bg_login.png"
+		},
+		{
+			"name": "bg_share_png",
+			"type": "image",
+			"url": "assets/zq/bg_share.png"
+		},
+		{
+			"name": "btn_login_png",
+			"type": "image",
+			"url": "assets/zq/btn_login.png"
+		},
+		{
+			"name": "btn_share_png",
+			"type": "image",
+			"url": "assets/zq/btn_share.png"
+		},
+		{
+			"name": "current_png",
+			"type": "image",
+			"url": "assets/zq/current.png"
+		},
+		{
+			"name": "ip1_png",
+			"type": "image",
+			"url": "assets/zq/ip1.png"
+		},
+		{
+			"name": "ip2_png",
+			"type": "image",
+			"url": "assets/zq/ip2.png"
+		},
+		{
+			"name": "lottery_png",
+			"type": "image",
+			"url": "assets/zq/lottery.png"
+		},
+		{
+			"name": "wish_png",
+			"type": "image",
+			"url": "assets/zq/wish.png"
+		},
+		{
+			"name": "wrapcircle_bg_png",
+			"type": "image",
+			"url": "assets/zq/wrapcircle_bg.png"
+		},
+		{
+			"name": "wrapcircle_bg2_png",
+			"type": "image",
+			"url": "assets/zq/wrapcircle_bg2.png"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="skins.MainUI" states="up,down,disabled" minHeight="1334" minWidth="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" width="640" height="1007">
+	<e:Group id="group" width="640" height="1007" x="0" y="0">
+        <e:Image source="bg2_jpg" x="0" y="0" id="back"/>
+		<e:Group id="turnGroup" anchorOffsetY="314" left="-2" right="-1" verticalCenter="4" width="640" height="628" anchorOffsetX="320">
+			<e:Image id="turntableBack" source="wrapcircle_bg_png" x="320" y="314" scaleX="1" scaleY="1" anchorOffsetX="313.5" anchorOffsetY="313.5"/>
+			<e:Image id="turntable" source="lottery_png" anchorOffsetX="276" anchorOffsetY="276" rotation="0" x="320" y="314" scaleX="1" scaleY="1"/>
+			<e:Image id="clickBtn" source="current_png" x="320" y="309.5" anchorOffsetX="84" anchorOffsetY="110"/>
+		</e:Group>
+    </e:Group>
+    
+</e:Skin>
